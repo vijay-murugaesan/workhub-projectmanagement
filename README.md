@@ -9,3 +9,9 @@ For pragmatic purposes, many features are not included. Others have been modifie
 ## Overview<a name="overview"></a>
 
 The app simulates Jira's workspace, where you can create projects, assign users and create and update issues. 
+
+
+## Credentials<a name="credentials"></a>
+
+name : test@gmail.com
+password : test1234
