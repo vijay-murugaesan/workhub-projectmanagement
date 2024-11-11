@@ -4,7 +4,7 @@ A simplified Workhub ( Jira clone ) application with some custom modifications m
 
 For pragmatic purposes, many features are not included. Others have been modified according to my tastes. The application should serve the basic functionalities of a project management software. I have taken inspiration from the actual [Jira website](https://www.atlassian.com/es/software/jira), as well as from [Trello](https://trello.com/). Also, [Ivor's Jira clone](https://github.com/oldboyxx/jira_clone) and [ducdv98 jira clone](https://github.com/ducdv98/jira-clone) has been a great inspiration for me. I only took ideas and resources (fonts and icons) from the original projects, all developments have being from scratch and by myself.
 
-[LIVE DEMO]([https://workhub-project.vercel.app](https://workhub-project.vercel.app))
+[LIVE DEMO]([https://workhub-project.vercel.app])(https://workhub-project.vercel.app)
 
 ## Overview<a name="overview"></a>
 
